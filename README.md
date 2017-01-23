@@ -1,8 +1,7 @@
-# NOC-S17-1-Physics-Animation
-Syllabus for Part 1 of Nature of Code: "Physics and Animation" at ITP Spring 2017
-
 The Nature of Code Part 1 (Spring 2017)
 ======================================
+
+Syllabus for Part 1 of Nature of Code: "Physics and Animation" at ITP Spring 2017
 
 Class Info
 ----------
@@ -30,7 +29,7 @@ Related Reading and Watching
 * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20)
 * [Form and Code](http://formandcode.com/)
 
-Week 1 - Introduction
+Week 1 - Introduction (Jan 24/25)
 -------------------------------
 * Class Intro / Overview
     * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
@@ -46,13 +45,13 @@ Week 1 - Introduction
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp01_vectors)
 * Assignment
     * [Sign up for class mailing list](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
-    * [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Week-1-Assignment).
+    * [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Homework-1).
  * Supplemental Reading
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/) Chapter 5
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
     * [Probability Theory](http://www.probabilitytheory.info/)
 
-Week 2 - Build a Physics Engine
+Week 2 - Build a Physics Engine (Jan 31 / Feb 1)
 ------------------------
 * [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
 * Videos 2.1 - 2.6
@@ -63,7 +62,7 @@ Week 2 - Build a Physics Engine
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
 
-Week 3 - Oscillation and Particle Systems
+Week 3 - Oscillation and Particle Systems (Feb 7/8)
 -------------------------------
 * [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
@@ -83,8 +82,23 @@ Week 3 - Oscillation and Particle Systems
 ms)
 * [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Week-4-Assignment)
 
-Week 4 - Physics Libraries
+Week 4 - Autonomous Agents (Feb 14/15)
+-----------------------------------
+* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+* Videos 6.1 - 6.8
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
+* Related
+    * [Reas Process Compendium](https://vimeo.com/22955812)
+    * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
+    * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
+    * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
+    * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
+* [Final Project](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Midterm-Assignment)
+
+Week 5 - Physics Libraries (Friday Feb 24!)
 ---------------------------
+* '''Please note the makeup time for this week on Friday, Feb 24'''
+* '''Both classes will meet in room 50 from 12pm-3pm'''
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
     * [Box2D web site](http://box2d.org/)
@@ -104,30 +118,17 @@ Week 4 - Physics Libraries
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 
-Week 5 - Autonomous Agents - 2/24/16
------------------------------------
-* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
-* Videos 6.1 - 6.8
-* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
-* Related
-    * [Reas Process Compendium](https://vimeo.com/22955812)
-    * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
-    * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
-    * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
-    * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
-* [Final Project](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Midterm-Assignment)
-
-Week 6 - Catch-up and Final Project Workshop
+Week 6 - Catch-up and Project Workshop (Feb 28 / Mar 1 )
 ------------------------------
 
-Week 7 - Project Presentations
+Week 7 - Project Presentations (Mar 7/8)
 ------------------------------
 
 Policies
 -----------------------------------------------
 * Submit assignments by the evening before class to the extent possible.
 * Come prepared with questions.
-* Put away screens during others' presentations. 
+* Put away screens during others' presentations.
 * Participate!
 * Document!
 * Grading:
