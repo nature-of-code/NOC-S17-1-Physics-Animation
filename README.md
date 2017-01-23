@@ -122,3 +122,16 @@ Week 6 - Catch-up and Final Project Workshop
 
 Week 7 - Project Presentations
 ------------------------------
+
+Policies
+-----------------------------------------------
+* Submit assignments by the evening before class to the extent possible.
+* Come prepared with questions.
+* Put away screens during others' presentations. 
+* Participate!
+* Document!
+* Grading:
+   * 40% Class Participation
+   * 40% Quality of assignments
+   * 20% Final project
+* For a 2-point class, 2 or more unexcused absences is grounds for failure.
