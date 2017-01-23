@@ -14,6 +14,7 @@ Class Info
 Resources
 ---------
 * [All course videos](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=6) -- If you would like offline access to the videos and/or just prefer to watch them somewhere other than YouTube, let me know.
+* [Nature of Code Kadenze Course](https://www.kadenze.com/courses/the-nature-of-code/info)
 * [Online textbook](http://natureofcode.com/book/)
 * [p5.js code examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
 * [Processing (Java) code examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
@@ -33,14 +34,14 @@ Week 1 - Introduction (Jan 24/25)
 -------------------------------
 * Class Intro / Overview
     * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
-* [Processing](http://www.processing.org) review
+* [Processing](http://www.processing.org), [p5.js](http://p5js.org), or ______________.
 * Randomness, Probability, and Perlin Noise
     * [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
-    * Videos I.1 - I.5
+    * [Videos I.1 - I.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YVljJvFRCyRM6mmF5wMPeE)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/introduction)
 * Object Oriented Programming Review & Vectors
     * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
-    * Videos 1.1 - 1.6
+    * [Videos 1.1 - 1.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp1_vectors)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp01_vectors)
 * Assignment
