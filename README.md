@@ -54,10 +54,11 @@ Week 1 - Introduction (Jan 24/25)
 
 Week 2 - Build a Physics Engine (Jan 31 / Feb 1)
 ------------------------
-* [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
-* Videos 2.1 - 2.6
+* [Nature of Code Chapter 2](http://natureofcode.com/book/chapter-2-forces/)
+* [Videos 2.1 - 2.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZRrqLcQ5BkBKmBLiGD8n4O)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp02_forces)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Week-2-Assignment)
+* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Homework-2).
 * Supplemental Reading
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
