@@ -73,7 +73,6 @@ Week 3 - Oscillation and Particle Systems (Feb 7/8)
 * [p5.js chapter 4 examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
-* [Demo of Conservation of Energy using a Pendulum](https://www.youtube.com/watch?v=4a0FbQdH3dY#t=1465)
 * Supplemental reading
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
