@@ -82,7 +82,7 @@ Week 3 - Oscillation and Particle Systems (Feb 7/8)
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
     * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 ms)
-* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Week-4-Assignment)
+* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Homework-3)
 
 Week 4 - Autonomous Agents (Feb 14/15)
 -----------------------------------
