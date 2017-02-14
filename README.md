@@ -86,16 +86,17 @@ ms)
 
 Week 4 - Autonomous Agents (Feb 14/15)
 -----------------------------------
-* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+* [Nature of Code Chapter 6: Autonomous Agents](http://natureofcode.com/book/chapter-6-autonomous-agents/)
 * Videos 6.1 - 6.8
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
-* Related
+* Supplemental
     * [Reas Process Compendium](https://vimeo.com/22955812)
     * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
     * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
     * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
-* [Final Project](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Midterm-Assignment)
+* [Homework-4: Final Project Start](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Homework-4)
 
 Week 5 - Physics Libraries (Friday Feb 24!)
 ---------------------------
