@@ -87,7 +87,7 @@ ms)
 Week 4 - Autonomous Agents (Feb 14/15)
 -----------------------------------
 * [Nature of Code Chapter 6: Autonomous Agents](http://natureofcode.com/book/chapter-6-autonomous-agents/)
-* Videos 6.1 - 6.8
+* [Videos 6.1 - 6.8](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YHt0dtyf4uiw8tKOxQLvlW)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
 * Supplemental
@@ -105,12 +105,12 @@ Week 5 - Physics Libraries (Friday Feb 24!)
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
     * [Box2D web site](http://box2d.org/)
-    * [JBox2D web site](http://www.jbox2d.org/)
-    * [PBox2D github repo](https://github.com/shiffman/PBox2D)
-    * Videos 5.1 - 5.9
+    * [Videos 5.1 - 5.12](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6akvoNKE4GAxf6ZeBYoJ4uh)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp05_libraries/box2d)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/box2dweb)
 * Toxiclibs
-    * Videos 5.13 - 5.16
+    * [Videos 5.13 - 5.16](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6akvoNKE4GAxf6ZeBYoJ4uh)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp05_libraries/toxiclibs)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
     * [ToxicLibs](http://toxiclibs.org/)
     * [The Making of Nokia Friends](https://vimeo.com/1472427)
