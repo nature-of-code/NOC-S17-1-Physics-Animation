@@ -96,12 +96,13 @@ Week 4 - Autonomous Agents (Feb 14/15)
     * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
     * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
-* [Homework-4: Final Project Start](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Homework-4)
+* [Homework-4: Final Project Start](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Project-Step-1)
 
 Week 5 - Physics Libraries (Friday Feb 24!)
 ---------------------------
 * '''Please note the makeup time for this week on Friday, Feb 24'''
 * '''Both classes will meet in room 50 from 12pm-3pm'''
+* [Add your questions here](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Questions:-Steering-and-Physics-Engine)
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
     * [Box2D web site](http://box2d.org/)
