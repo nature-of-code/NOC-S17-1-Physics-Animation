@@ -113,6 +113,7 @@ Week 5 - Physics Libraries (Friday Feb 24!)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp05_libraries/toxiclibs)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
     * [ToxicLibs](http://toxiclibs.org/)
+    * [ToxicLibs.js](http://haptic-data.com/toxiclibsjs/)
     * [The Making of Nokia Friends](https://vimeo.com/1472427)
     * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
 * Bullet
