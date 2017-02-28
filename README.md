@@ -55,10 +55,11 @@ Week 1 - Introduction (Jan 24/25)
 
 Week 2 - Build a Physics Engine (Jan 31 / Feb 1)
 ------------------------
-* [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
-* Videos 2.1 - 2.6
+* [Nature of Code Chapter 2](http://natureofcode.com/book/chapter-2-forces/)
+* [Videos 2.1 - 2.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZRrqLcQ5BkBKmBLiGD8n4O)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp02_forces)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Week-2-Assignment)
+* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Homework-2).
 * Supplemental Reading
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
@@ -70,9 +71,9 @@ Week 3 - Oscillation and Particle Systems (Feb 7/8)
 * [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
 * Videos 3.1 - 3.5, Videos 4.1 - 4.9
 * [p5.js chapter 3 examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
-* [p5.js chapter 4 examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_syste* [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
+* [p5.js chapter 4 examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
+* [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
-* [Demo of Conservation of Energy using a Pendulum](https://www.youtube.com/watch?v=4a0FbQdH3dY#t=1465)
 * Supplemental reading
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
@@ -82,36 +83,39 @@ Week 3 - Oscillation and Particle Systems (Feb 7/8)
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
     * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 ms)
-* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Week-4-Assignment)
+* [Assignment](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Homework-3)
 
 Week 4 - Autonomous Agents (Feb 14/15)
 -----------------------------------
-* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
-* Videos 6.1 - 6.8
+* [Nature of Code Chapter 6: Autonomous Agents](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+* [Videos 6.1 - 6.8](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YHt0dtyf4uiw8tKOxQLvlW)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
-* Related
+* Supplemental
     * [Reas Process Compendium](https://vimeo.com/22955812)
     * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
     * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
     * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
-* [Final Project](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Midterm-Assignment)
+* [Homework-4: Final Project Start](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Project-Step-1)
 
 Week 5 - Physics Libraries (Friday Feb 24!)
 ---------------------------
 * '''Please note the makeup time for this week on Friday, Feb 24'''
 * '''Both classes will meet in room 50 from 12pm-3pm'''
+* [Add your questions here](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Questions:-Steering-and-Physics-Engine)
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
     * [Box2D web site](http://box2d.org/)
-    * [JBox2D web site](http://www.jbox2d.org/)
-    * [PBox2D github repo](https://github.com/shiffman/PBox2D)
-    * Videos 5.1 - 5.9
-    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/box2dweb)
+    * [Videos 5.1 - 5.12](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6akvoNKE4GAxf6ZeBYoJ4uh)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp05_libraries/box2d)
+    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/box2d-html5)
 * Toxiclibs
-    * Videos 5.13 - 5.16
+    * [Videos 5.13 - 5.16](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6akvoNKE4GAxf6ZeBYoJ4uh)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp05_libraries/toxiclibs)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
     * [ToxicLibs](http://toxiclibs.org/)
+    * [ToxicLibs.js](http://haptic-data.com/toxiclibsjs/)
     * [The Making of Nokia Friends](https://vimeo.com/1472427)
     * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
 * Bullet
