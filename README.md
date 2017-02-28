@@ -38,6 +38,7 @@ Week 1 - Introduction (Jan 24/25)
 * Randomness, Probability, and Perlin Noise
     * [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
     * [Videos I.1 - I.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YVljJvFRCyRM6mmF5wMPeE)
+    * [Perlin Noise playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/introduction)
 * Object Oriented Programming Review & Vectors
     * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
