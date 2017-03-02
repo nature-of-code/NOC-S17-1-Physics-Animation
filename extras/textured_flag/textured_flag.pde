@@ -25,7 +25,7 @@ VerletPhysics3D physics;
 void setup() {
   size(800, 600, P3D); 
   springs = new ArrayList<Spring>();
-  flag = loadImage("jack.png");
+  flag = loadImage("cat.jpg");
 
   physics = new VerletPhysics3D();
   Vec3D gravity = new Vec3D(0, 0.05, 0);
