@@ -125,10 +125,16 @@ Week 5 - Physics Libraries (Friday Feb 24!)
 * Other libraries?
 
 Week 6 - Catch-up and Project Workshop (Feb 28 / Mar 1 )
-------------------------------
+------------------------------------
+* More on inheritance/polymorphism
+* Geometry and Texturing
+* Matter.js
+* Closer look at flocking and complex systems
+* Preview of NOC: Intelligence and Learning
 
 Week 7 - Project Presentations (Mar 7/8)
 ------------------------------
+* [Project Presentations and Documentation](https://github.com/shiffman/NOC-S17-1-Physics-Animation/wiki/Project)
 
 Policies
 -----------------------------------------------
